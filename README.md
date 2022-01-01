@@ -1,4 +1,4 @@
-- Hi, I’m @bertrandkerres. I work as Data Scientist at Volvo Cars / Aurobay.
+- Hi, I’m @bertrandkerres. I work as Data Scientist at Volvo Cars / Aurobay. But that code doesn't end up here unfortunately.
 - I’m interested in statistics, time series analysis, energy systems. And soccer, tennis, cooking, ... ;)
 - I’m currently learning Julia.
 
